@@ -1,37 +1,14 @@
-# GDPR Summary #
+# Helping you Support the GDPR #
 
 The General Data Protection Regulation (GDPR) introduces new rules for organizations that offer goods and services to people in the European Union (EU), or that collect and analyze data for EU residents no matter where you or your enterprise are located. Additional details can be found at [GDPR][GDPRhomeTopic].
 
-This document guides you to information to help you honor rights and fulfill obligations under the GDPR when using Microsoft products and services. A [Recommended action plan for GDPR][GDPRactPlan] and [Accountability Readiness Checklists][GDPRaccountReady] provide additional resources for assessing and implementing GDPR compliance.
-
-GDPR [terms][gdprTerms] that will be helpful in this document:
- * _Data Controller (Controller)_ – A legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.  
- * _Personal data_ and _data subject_ – Any information relating to an identified or identifiable natural person (data subject); an identifiable natural person is one who can be identified, directly or indirectly.  
- * _Processor_ – A natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.  
- * _Customer Data_ – Data produced and stored in the day-to-day operations of running your business.
-
-## What is the GDPR? ##
-
 The GDPR gives rights to people to manage personal data collected by an organization. These rights can be exercised through a Data Subject Request (DSR). The organization is required to provide timely information regarding DSRs and data breaches, and perform Data Protection Impact Assessments (DPIAs).
 
-Several points should be considered when implementing or assessing GDPR requirements.
-1. Developing or evaluating your GDPR-compliance data privacy policy.  
-1. Assessing the data security of your organization.  
-1. Who is your data controller?
-1. What data security processes may you have to perform?
-
-The [Recommended action plan for GDPR][GDPRactPlan] and [Accountability Readiness Checklists][GDPRaccReady] may prompt additional thinking points.
-
-The following tasks (expanded in Part 2) are involved to meet GDPR standards. Follow the links in the list for details regarding your implementation.  
 1. [Data Subject Request][GDPRdsr] (DSR). A formal request by a data subject to a controller to take an action (change, restrict, access) regarding their personal data.  
 1. [Breach Notification][GDPRbreach]. Under GDPR, a personal data breach is “a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored or otherwise processed.”
 1. [Data Protection Assessment][GDPRdpia] (DPIA). Data controllers are required under GDPR to prepare a DPIA for data operations that are “likely to result in a high risk to the rights and freedoms of natural persons.”
 
-As mentioned above, the Recommended action plan for GDPR and Accountability Readiness Checklists provide a guide to implementing or assessing GDPR conformance using Microsoft products and services.
-
-## The GDPR in action ##
-
-This section provides an outline and thinking points on completing the GDPR tasks mentioned above. Completing these tasks may vary depending on your Microsoft configuration.
+This document guides you to information to help you honor rights and fulfill obligations under the GDPR when using spefici Microsoft products and servic familiess, including supporting information for these three important tasks. To help you support the full range of GDPR obligations, an Accountability Checklist provides pointers to supporting information for each product family.
 
 ### Data Subject Request (DSR) ###
 
@@ -49,7 +26,7 @@ Data Subject Requests provide a means for data subjects to exercise their rights
 
 ### Data Protection Impact Assessent ###
 
-Under GDPR, data controllers are required to prepare a Data Protection Impact Assessment ([DPIA][GDPRdpia]) for processing operations that are “likely to result in a high risk to the rights and freedoms of natural persons.” There is nothing inherent in Microsoft products and services that necessitate the creation of a DPIA. Rather, it depends on the details of your Microsoft configuration.
+Under GDPR, data controllers are required to prepare a Data Protection Impact Assessment ([DPIA][GDPRdpia]) for processing operations that are “likely to result in a high risk to the rights and freedoms of natural persons.” There is nothing inherent in Microsoft products and services that necessitate the creation of a DPIA, it depends on the details of your Microsoft configuration and settings. The ([DPIA][GDPRdpia]) documentation provides information to help you write your own DPIA whenusing our servcies.
 
 Some considerations regarding DPIA are given below. A list of details that must be considered in Office can be found in [Contents of DPIA][GDPRdpiaContents].
 
@@ -72,7 +49,14 @@ As a data processor, Microsoft will ensure that our customers are able to meet t
 
 ### Accountability Readiness Checklists for the GDPR ###
 
-These [checklists][GDPRaccountReady] provide a convenient way to access information you may need to support the GDPR using Microsoft products. You can manage checklist items with the [Compliance Manager][GDPRcomplianceMgr] by referencing the Control ID and Control Title under Customer Managed Controls in the GDPR tile.
+These [checklists][GDPRaccountReady] provide a convenient way to access information you may need to support the full range of GDPR obligations while using Microsoft products. It presents a generic list of requirements for a privacy program that you can use as a checklist for your own programs, and links to supporting information for Microsoft products.
+
+## Terms ##
+GDPR [terms][gdprTerms] that will be helpful in this document:
+ * _Data Controller (Controller)_ – A legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.  
+ * _Personal data_ and _data subject_ – Any information relating to an identified or identifiable natural person (data subject); an identifiable natural person is one who can be identified, directly or indirectly.  
+ * _Processor_ – A natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.  
+ * _Customer Data_ – Data produced and stored in the day-to-day operations of running your business.
 
 [GDPRhomeTopic]: https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr?toc=/microsoft-365/enterprise/toc.json
 
